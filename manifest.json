@@ -1,0 +1,31 @@
+{
+  "short_name": "AI-Accounting",
+  "name": "AI-Accounting",
+  "description": "A web-based accounting and inventory software inspired by Tally Prime, with a key AI feature for detailed invoice data extraction using the Gemini API.",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_48dp.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_96dp.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_192dp.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.gstatic.com/images/branding/product/1x/gemini_512dp.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f1f5f9"
+}
